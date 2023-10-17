@@ -5,6 +5,8 @@
 
 Dies ist ein Python-Programm, das entwickelt wurde, um einen Brute-Force-Angriff auf eine Webseite zu erkennen und darauf zu reagieren.
 
+Projektlaufzeit : 3 Monate
+
 ## Funktionen
 
 ### `brute_force_attack(url, username, password_list, rate_limit, two_factor_auth, password_manager)`
